@@ -3,7 +3,7 @@ package uk.co.mistyknives.kick4j.exceptions.api.impl;
 /**
  * Project: Kick4J
  * <br>
- *  * Copyright MistyKnives Â© 2022-2023
+ * Copyright MistyKnives © 2022-2023
  * <br>
  * ---------------------------------------
  * <br>
